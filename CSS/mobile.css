@@ -8,6 +8,9 @@
       .container>div {
         min-width: 360px;
       }
+      [class*="item"] {
+        padding: 2px;
+      }
     .item2 {
         grid-column-start: 1;
         grid-column-end: 2;
