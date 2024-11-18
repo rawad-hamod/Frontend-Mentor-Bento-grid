@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'DM Sans';
+    src: url('/assets/fonts/DMSans-VariableFont_opsz\,wght.ttf');
+    font-weight: 400;
+    font-weight: 500;
+    font-style: normal;
+  }
+  body {
+    font-family: "DM Sans";
+    box-sizing: border-box;
+    
+  }
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  .container {
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 5px;
+    background-color: hsl(0, 0%, 96%);
+    
+  }
+  [class*="item"] {
+
+   display: block;
+    margin: 5px auto;
+   
+    border-radius: 10px;
+  }
+  .item2 {
+    background-color: hsl(256, 67%, 59%);
+    color: hsl(0, 0%, 100%);
+  }
+
+  .item5 {
+    background-color: hsl(39, 100%, 71%);
+    color: hsl(0, 0%, 7%);
+  }
+
+  .item6 {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 7%);
+  }
+
+  .item3 {
+    background-color: hsl(254, 88%, 90%);
+    color: hsl(0, 0%, 7%);
+  }
+  .item8 {
+    background-color: hsl(256, 67%, 59%);
+    color: hsl(0, 0%, 100%);
+  }
+  .item7 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 6;
+    grid-row-end: 7;
+    background-color: hsl(254, 88%, 90%);
+    color: hsl(0, 0%, 7%);
+  }
+  .item1 {
+    background-color: hsl(31, 66%, 93%);
+    color: hsl(0, 0%, 7%);
+  }
+  .item4 {
+    background-color: hsl(39, 100%, 71%);
+    color: hsl(0, 0%, 7%);
+  }
