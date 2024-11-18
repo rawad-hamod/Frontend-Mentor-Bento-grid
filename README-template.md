@@ -16,10 +16,10 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+It is my first challenge in frontend mentor, I had alot of new information while searching to implement the unusual grid layout.
+I think the main concept is to break the roles and think out of the box that the html structure element order doesn't always represent the required layout suiting different devices.
 ### The challenge
 
 Users should be able to:
@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![the desktop 1400 px](./screenshots/desktop.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
