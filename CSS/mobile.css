@@ -1,4 +1,4 @@
-@media (max-width: 376px) {
+@media (max-width: 600px) {
     .container {
         display: grid;
         grid-template-rows: repeat(8, auto);
