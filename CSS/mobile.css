@@ -3,7 +3,7 @@
         display: grid;
         grid-template-rows: repeat(8, auto);
         grid-template-columns: 1fr;
-        min-width: 375px;
+        min-width: 600px;
       }
       .container>div {
         min-width: 360px;
